@@ -2,3 +2,4 @@ My expectations are to have fun and learn a lot
 
 I'm looking forward to dwelve more on the best practices in Web Programming, especially in setting up projects when working on teams. 
 I'm also excited to learn how to create visually appealing yet simple to navigate UI design for web applications. - myko
+I'm hoping for a fun learning experience in this course. - knmontesines
